@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/DeadlyBeast09/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
