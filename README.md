@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DeadlyBeast09/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/DeadlyBeast09/LeetCode/tree/master/0620-not-boring-movies) |
+| [1174-immediate-food-delivery-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/DeadlyBeast09/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/DeadlyBeast09/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
