@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/DeadlyBeast09/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/DeadlyBeast09/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DeadlyBeast09/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/DeadlyBeast09/LeetCode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/DeadlyBeast09/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
