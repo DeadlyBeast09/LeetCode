@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DeadlyBeast09/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/DeadlyBeast09/LeetCode/tree/master/1211-queries-quality-and-percentage) |
+| [1321-restaurant-growth](https://github.com/DeadlyBeast09/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/DeadlyBeast09/LeetCode/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/DeadlyBeast09/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/DeadlyBeast09/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
