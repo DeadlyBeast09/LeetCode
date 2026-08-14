@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeadlyBeast09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeadlyBeast09/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DeadlyBeast09/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
@@ -92,4 +94,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeadlyBeast09/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
