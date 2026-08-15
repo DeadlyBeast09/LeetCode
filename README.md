@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeadlyBeast09/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeadlyBeast09/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeadlyBeast09/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
