@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeadlyBeast09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/DeadlyBeast09/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeadlyBeast09/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
