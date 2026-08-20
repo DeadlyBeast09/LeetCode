@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/DeadlyBeast09/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/DeadlyBeast09/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DeadlyBeast09/LeetCode/tree/master/0062-unique-paths) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
