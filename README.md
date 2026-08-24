@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/DeadlyBeast09/LeetCode/tree/master/0072-edit-distance) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DeadlyBeast09/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/DeadlyBeast09/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/DeadlyBeast09/LeetCode/tree/master/0072-edit-distance) |
 | [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
