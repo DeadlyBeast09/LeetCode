@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/DeadlyBeast09/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0213-house-robber-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/DeadlyBeast09/LeetCode/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/DeadlyBeast09/LeetCode/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/DeadlyBeast09/LeetCode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/DeadlyBeast09/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeadlyBeast09/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Knapsack Problem
