@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DeadlyBeast09/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/DeadlyBeast09/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeadlyBeast09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/DeadlyBeast09/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/DeadlyBeast09/LeetCode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/DeadlyBeast09/LeetCode/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/DeadlyBeast09/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
