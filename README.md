@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeadlyBeast09/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/DeadlyBeast09/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeadlyBeast09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeadlyBeast09/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/DeadlyBeast09/LeetCode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/DeadlyBeast09/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1406-stone-game-iii](https://github.com/DeadlyBeast09/LeetCode/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeadlyBeast09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Game Theory
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DeadlyBeast09/LeetCode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeadlyBeast09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Manacher
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DeadlyBeast09/LeetCode/tree/master/0486-predict-the-winner) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeadlyBeast09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
